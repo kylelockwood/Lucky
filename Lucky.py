@@ -1,4 +1,5 @@
 #!python
+
 # Opens several google search results
 
 import requests, sys, webbrowser
